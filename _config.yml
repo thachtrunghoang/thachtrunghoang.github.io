@@ -67,7 +67,7 @@ author:
     #  url: "https://"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:thachtrunghoang@gmail"
+      url: "mailto:thachtrunghoang@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -82,7 +82,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:thachtrunghoang@gmail"
+      url: "mailto:thachtrunghoang@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
