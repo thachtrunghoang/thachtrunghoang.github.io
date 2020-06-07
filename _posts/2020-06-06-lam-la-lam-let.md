@@ -13,3 +13,5 @@ Kể ra cũng hay, có 1 bác chắc đâu đó 6x thi chung phòng.
 Xem ra người nỗ lực hơn mình còn nhiều lắm.
 
 ![Texas Chicken]({{ site.url }}{{ site.baseurl }}/assets/images/texas-chicken.jpg)
+
+Texas Chicken Nguyễn Văn Cừ hân hạnh tài trợ tấm hình. =)
