@@ -1,12 +1,11 @@
 ---
-title: "Sự khác nhau giữa i++ và ++i"
+title: "Sự khác nhau giữa i++ và ++i ?"
 categories:
   - Embedded
 tags:
   - code c
 ---
-
-Sự khác nhau giữa i++ và ++i ?  
+ 
 - i++: Thực thi hàm, biểu thức với biến i trước, sau đó mới tăng biến i lên 1 đơn vị.  
 - ++i: Tăng biến i lên 1 đơn vị rồi mới thực thi hàm, biểu thức.
 
